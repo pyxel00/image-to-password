@@ -1,4 +1,4 @@
-# DISCLAIMER : NEVER lose the original file that contained the string/passwords. If you do it is almost IMPOSSIBLE(Didin't try every circumstance) to recreate!
+# DISCLAIMER : NEVER lose the original file that contained the string/passwords. If you do it is almost IMPOSSIBLE(Didn't try every circumstance) to recreate!
 ### *found it the hard way* 
 <br>
 
