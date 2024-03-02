@@ -1,6 +1,7 @@
 # DISCLAIMER : NEVER lose the original file that contained the string/passwords. If you do it is almost IMPOSSIBLE(Didin't try every circumstance) to recreate!
 ### *found it the hard way* 
 <br>
+
 # A small command line utility for turning images to string.
 ## for usage in passwords and other stuff.
 ### Written in python
